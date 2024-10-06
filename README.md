@@ -1,5 +1,7 @@
 # 🛠️ Git Gurus of Source Control 🧙‍♂️
 
+![Preview](./Module%203%20Git%20and%20GitHub%20for%20DevOps.gif)
+
 Welcome to **Git-Gurus-of-Source-Control**, where the magic of version control unfolds! 🔮 In this module, you'll master Git and GitHub like a true source code wizard. Whether you're resetting, reverting, or merging with grace, these steps have got you covered. 🧩
 
 ## What's inside? 🤔
